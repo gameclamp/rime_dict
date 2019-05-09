@@ -1,3 +1,4 @@
+#可以在双拼中使用，但有点特殊，微软双拼如果要输入😫，按键为oaa,🆎为oabx;xx
 ---
 name: luna_pinyin.duanyu
 version: "2019.05.09"
@@ -5,23 +6,21 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
-😫	a a	1
-w(ﾟДﾟ)w	a a	1
-o((>ω< ))o	a a	1
-AA制	a a zhi	1
-中国农业银行	a b c	1
-🆎	a b xing xie	1
-🆎	a b xing xue	1
-交流电	a c	1
-公元	a d	1
+😫	aa	1
+w(ﾟДﾟ)w	aa	1
+o((>ω< ))o	aaa	1
+AA制	aa zhi	1
+中国农业银行	abc	1
+🆎	ab xing xie	1
+🆎	ab xing xue	1
+交流电	ac	1
+公元	ad	1
 α	a er fa	1
 A股	a gu	1
-安徽电视台	a h t v	1
-安徽TV	a h t v	1
+安徽电视台	ahtv	1
 😔	ai	1
 艾滋病	aids	1
-AIDS	aids	1
-iPhone	aifeng	1
+iPhone	ai feng	1
 亚投行	aiib	1
 亚洲基础设施投资银行	aiib	1
 😆	ai ma	1
@@ -40,3 +39,2585 @@ iPhone	aifeng	1
 💆‍	an mo	1
 👷	an quan mao	1
 ☮	an xin	1
+Android	an zhuo	1
+┗|｀O′|┛ 嗷~~	ao	1
+😕	ao man	1
+🍲	ao tang	1
+(o|o) 	ao te man	1
+A盘	a pan	1
+亚太经济合作组织	apec	1
+A片	a pian	1
+阿Q精神	aq jing shen	1
+美国信息交换标准代码	ascii	1
+@	at	1
+ATM机	atmji	1
+🅰	a xing xie	1
+🅰	a xing xue	1
+Ⅷ	ba	1
+⑧	ba	1
+🕗	ba dian	1
+🕣	ba dian ban	1
+ヾ(•ω•`)o	bai bai	1
+％	bai fen hao	1
+％	bai fen zhi	1
+💮	bai hua	1
+🏬	bai huo da lou	1
+🐁	bai lao shu	1
+(o_ _)ﾉ	bai le	1
+🏳	bai qi	1
+⚪	bai quan quan	1
+👋	bai shou	1
+(^人^)	bai tuo	1
+🙏	bai tuo	1
+🙄	bai yan	1
+♈	bai yang zuo	1
+扮COOL	ban cool	1
+(๑•̀ㅂ•́)و✧	bang	1
+🍭	bang bang tang	1
+⚾	bang qiu	1
+扮COOL	ban ku	1
+🌰	ban li	1
+🦓	ban ma	1
+🏏	ban qiu	1
+©	ban quan	1
+🔧	ban shou	1
+⌒	ban yuan	1
+\(￣︶￣*\))	bao bao	1
+👶	bao bao	1
+🍧	bao bing	1
+📦	bao guo	1
+👨‍⚕️	bao jian yi sheng	1
+🎳	bao ling qiu	1
+🦖	bao long	1
+🍿	bao mi hua	1
+💢	bao nu	1
+╰（‵□′）╯	bao nu	1
+🍲	bao tang	1
+ヾ(≧▽≦*)o	bao xiao	1
+💢	bao yi lao quan	1
+📰	bao zhi	1
+🐆	bao zi	1
+🚌	ba shi	1
+🦖	ba wang long	1
+🐙	ba zhua yu	1
+BB机	bb ji	1
+BBS	bbs	1
+电子公告板	bbs	1
+BB霜	bb shuang	1
+公元前	bc	1
+≠	bdy	1
+≯	bdy	1
+（；´д｀）ゞ	bei ju	1
+🐚	bei ke	1
+β	bei ta	1
+📝	bei wang lu	1
+(～￣(OO)￣)ブ	ben	1
+😩	beng kui	1
+o(≧口≦)o	beng kui	1
+📕	ben zi	1
+β	be ta	1
+％	bfh	1
+％	bfz	1
+B股	b gu	1
+🖊	bi	1
+💩	bian bian	1
+🍱	bian dang	1
+🦇	bian fu	1
+🏪	bian li dian	1
+§(*￣▽￣*)§	bian zi	1
+🏷	biao qian	1
+📈	biao sheng	1
+🎭	biao yan	1
+ª	biao zhi a	1
+BB机	bi bi ji	1
+B超	bi chao	1
+＞﹏＜	bie	1
+🤫	bie shuo hua	1
+📎	bie zhen	1
+(っ °Д °;)っ	bie zou	1
+🖼	bi hua	1
+ψ(._. )>	bi ji	1
+💻	bi ji ben	1
+👙	bi jin i	1
+∪	bing	1
+🍪	bing gan	1
+🥌	bing hu	1
+∪	bing ji	1
+🤒	bing le	1
+(o゜▽゜)o☆[BINGO!]	bing o	1
+Bing拼音输入法	bing pin yin shu ru fa	1
+🍦	bing qi lin	1
+🏒	bing qiu	1
+🍨	bing sha	1
+Bing输入法	bing shu ru fa	1
+🍕	bi sa	1
+😒	bi shi	1
+(╬▔皿▔)凸	bi shi	1
+🗡	bi shou	1
+(￣ ‘i ￣;)	bi ti	1
+😣	bi yan	1
+🎓	bi ye	1
+👃	bi zi	1
+🤐	bi zui	1
+(⊙x⊙;)	bi zui	1
+∪	bj	1
+～	blh	1
+～	blx	1
+(* ￣3)(ε￣ *)	bo bo	1
+BOBO族	bo bo zu	1
+中国银行	bo c	1
+▶	bo fang	1
+⏯	bo fang huo zan ting	1
+～	bo lang hao	1
+～	bo lang xian	1
+🥃	bo li bei	1
+🍍	bo luo	1
+©	bq	1
+北京电视台	btv	1
+🙅‍	bu	1
+( *^-^)ρ(*╯^╰)	bu chi	1
+👍	bu cuo	1
+≯	bu da yu	1
+≠	bu deng yu	1
+🍮	bu ding	1
+(＠_＠;)	bu dong	1
+＞︿＜	bu gao xing	1
+o(￣┰￣*)ゞ	bu hao yi si	1
+（⊙ｏ⊙）	bu hui ba	1
+😒	bu kai xin	1
+￣へ￣	bu kai xin	1
+🙈	bu kan	1
+(/▽＼)	bu kan	1
+🙅‍	bu ke yi	1
+😤	bu lin i	1
+（︶^︶）	bu man	1
+🙅‍	bu neng	1
+🤱	bu ru	1
+🙅	bu shi	1
+(＃°Д°)	bu shi ba	1
+ u'ㄟ( ▔	bu shi wo	1
+(* ￣︿￣)	bu shuang	1
+🙊	bu shuo	1
+🙉	bu ting	1
+≮	bu xiao yu	1
+ u'(￣_	bu xie	1
+🤨	bu xin	1
+🚶‍	bu xing	1
+🚫	bu xu	1
+🙅‍	bu yao	1
+ヽ（≧□≦）ノ	bu yao	1
+😦	bu yao xia wo	1
+🙃	bu zheng jing	1
+🤷‍	bu zhi dao	1
+(+_+)?	bu zhi dao	1
+🅱	b xing xie	1
+🅱	b xing xue	1
+≮	bxy	1
+⌒	by	1
+B站	b zhan	1
+凸(艹皿艹 )	ca	1
+中国民航	ca ac	1
+计算机辅助设计	ca d	1
+👎	cai	1
+🎊	cai dai	1
+🔪	cai dao	1
+🌈	cai hong	1
+🏳‍🌈	cai hong qi	1
+🥦	cai hua	1
+🤑	cai mi	1
+(o′┏▽┓｀o) 	cai shen	1
+（*゜ー゜*）	cai zhi dao	1
+🐹	cang shu	1
+🍴	can ju	1
+🍴	can jv	1
+🍓	cao mei	1
+🌿	cao yao	1
+🕹	cao zong gan	1
+(ノへ￣、)	ca yan lei	1
+中国篮球协会	c ba	1
+∝	cbl	1
+中国建设银行	ccb	1
+中国中央电视台	cctv	1
+光盘	cd	1
+国家开发银行	cdb	1
+光大银行	ce b	1
+(*≧︶≦))(￣▽￣* )ゞ	ceng	1
+首席执行官	ce o	1
+关于建立更紧密经贸关系的安排	ce pa	1
+🚾	ce suo	1
+大学英语等级考试	ce t	1
+中国教育电视台	ce tv	1
+穿越火线	cf	1
+中国足球协会	c fa	1
+首席财务官	c fo	1
+×	ch	1
+÷	ch	1
+×	cha	1
+❌	cha hao	1
+👎	cha jin	1
+φ(*￣0￣)	chang ge	1
+🦕	chang jing long	1
+🦒	chang jing lu	1
+唱K	chang k	1
+超级QQ	chao ji qq	1
+😝	chao nong	1
+😝	chao xiao	1
+q(≧▽≦q)	chao xiao	1
+🔌	cha tou	1
+🔍	cha zhao	1
+🚗	che	1
+🗜	che lun ga suo	1
+×	cheng	1
+🏰	cheng bao	1
+∝	cheng bi li	1
+✖	cheng hao	1
+🧑	cheng nian ren	1
+🧑	cheng ren	1
+🏙	cheng shi	1
+🚇	cheng tie	1
+👨‍💻	cheng xu yuan	1
+✖	cheng yi	1
+🍊	cheng zi	1
+👔	chen shan	1
+🤔	chen si	1
+🚗	che zi	1
+ψ(｀∇´)ψ	chi dong xi	1
+(　o=^•ェ•)o　┏━┓	chi fan	1
+😮	chi jing	1
+(⊙ˍ⊙)	chi jing	1
+⚙	chi lun	1
+中国	chi na	1
+🍽	chi xi can	1
+(。>︿<)_θ	chi yao	1
+📏	chi zi	1
+中国	chn	1
+✪ ω ✪	chong bai	1
+___*( ￣皿￣)/#____	chong chu	1
+🔁	chong fu	1
+🆖	chong lai	1
+🏄‍	chong lang	1
+💕	chong man ai	1
+💥	chong tu	1
+(￣ε(#￣)☆╰╮o(￣皿￣///)	chou ni	1
+(ノへ￣、)	chou qi	1
+🚬	chou yan	1
+<(￣￣)y▂ξ	chou yan	1
+锄禾日当午，%crlf%汗滴禾下土。%crlf%谁知盘中餐，%crlf%粒粒皆辛苦。	chrdw	1
+÷	chu	1
+<( ￣^￣)(θ(θ☆( >_<	chuai	1
+🛏	chuang	1
+⚓	chuan mao	1
+📣	chuan sheng tong	1
+📠	chuan zhen ji	1
+（￣︶￣）↗　	chu fa	1
+💄	chu gao	1
+➗	chu hao	1
+🌬	chui feng	1
+🤥	chui niu	1
+👊	chui si	1
+⊥	chui zhi	1
+🔨	chui zi	1
+✨	chun jing	1
+(๐॔˃̶ᗜ˂̶๐॓)	chun ku	1
+♍	chun v zuo	1
+➗	chu yi	1
+🚕	chu zu che	1
+🗡	ci	1
+兴业银行	ci b	1
+📼	ci dai	1
+🤪	ci ji	1
+首席信息官	ci o	1
+💽	ci pan	1
+中信银行	ci ti cb	1
+🦔	ci wei	1
+♀	ci xing	1
+😁	ci ya	1
+C罗	c luo	1
+招商银行	cmb	1
+民生银行	cmbc	1
+中央人民广播电台	cnr	1
+中国网络电视台	cntv	1
+中国奥委会	coc	1
+😎	cool	1
+Cortana	cor tan a	1
+C盘	c pan	1
+消费者价格指数	c pi	1
+中央处理器	c pu	1
+中国红十字基金会	crcf	1
+反恐精英	cs	1
+CT检查	ct	1
+首席技术官	cto	1
+×	cuo	1
+❌	cuo wu	1
+中国排球协会	cva	1
+♀	cx	1
+×	cy	1
+÷	cy	1
+C语言	c yu yan	1
+⊥	cz	1
+📞	da dian hua	1
+🤙	da dian hua gei wo	1
+🌬	da feng	1
+🤙	da gei wo	1
+✔	da gou	1
+－O－	da ha qian	1
+💤	da hu lu	1
+😳	dai	1
+o_o ....	dai	1
+━┳━　━┳━	dai zhi	1
+(。_。)	da ji	1
+🎗	da jie	1
+😭	da ku	1
+｛｝	da kuo hao	1
+👊	da lai de quan tou	1
+🐀	da lao shu	1
+(￣ε(#￣)	da lian	1
+🧠	dan ao	1
+🚲	dan che	1
+━━(￣ー￣*|||━━	dan ding	1
+🎂	dang ao	1
+🐣	dan ke	1
+🔂	dan qu xun huan	1
+🐟	dan shui yu	1
+〈〉	dan shu ming hao	1
+😣	dan xiao	1
+😨	dan xin	1
+🔘	dan xuan an niu	1
+🔂	dan xun huan	1
+‘’	dan yin hao	1
+🔪	dao	1
+🛬	dao da	1
+☯	dao jia	1
+😓	dao mei	1
+<(＿　＿)>	dao qian	1
+🙇	dao qian	1
+▽	dao san jiao	1
+▼	dao san jiao	1
+🌾	dao sui	1
+🤧	da pen ti	1
+🏢	da sha	1
+📢	da sheng	1
+🌳	da shu	1
+🃏	da wang	1
+✡	da wei zhi xing	1
+😜	da wo ya	1
+🦐	da xia	1
+🐘	da xiang	1
+😀	da xiao	1
+*^____^*	da xiao	1
+🔠	da xie	1
+🔠	da xie zi mu	1
+🦍	da xing xing	1
+🐼	da xiong mao	1
+👨‍🎓	da xue sheng	1
+🌏	da yang zhou	1
+🧥	da yi	1
+🖨	da yin ji	1
+＞	da yu	1
+≥	da yu deng yu	1
+🙋	da zhao hu	1
+🎡	da zhuan pan	1
+◐	dbd	1
+∶	dbh	1
+直流电	dc	1
+の	de	1
+Δ	de er ta	1
+δ	de er ta	1
+戴尔	de ll	1
+Δ	de l ta	1
+δ	de l ta	1
+...(*￣０￣)ノ	deng deng	1
+🏮	deng long	1
+💡	deng pao	1
+🧗‍	deng shan	1
+💈	deng xiang	1
+＝	deng yu	1
+(～￣▽￣)～	de se	1
+( •̀ ω •́ )✧	de yi	1
+√	dg	1
+，	dh	1
+☎	dh	1
+、	dh	1
+·	dian	1
+丶	dian	1
+🚎	dian che	1
+🔋	dian chi	1
+📞	dian hua	1
+💻	dian nao	1
+📺	dian shi ji	1
+🎦	dian ying	1
+🎦	dian ying yuan	1
+📧	dian you	1
+👍	dian zan	1
+📧	dian zi you jian	1
+🥀	diao xie	1
+🎣	diao yu	1
+ u"……]((o_ _)'彡☆"	die dao	1
+🥈	die r ming	1
+🍠	di gua	1
+😞	di luo	1
+(#｀-_ゝ-)	di luo	1
+d=====(￣▽￣*)b	ding	1
+📍	ding wei	1
+🌏	di qiu	1
+🌐	di qiu cun	1
+🥉	di san ming	1
+🚕	di shi	1
+🚇	di tie	1
+(。﹏。)	di tou	1
+🗺	di tu	1
+🤦‍	diu lian	1
+🤦‍	diu ren	1
+❣	di xie	1
+❣	di xue	1
+🥇	di yi ming	1
+🔉	di yin	1
+👲	di zhu	1
+｛｝	dkh	1
+脱氧核糖核酸	d na	1
+域名服务器	dns	1
+＄	dol la r	1
+🌏	dong ban qiu	1
+🗼	dong jing ta	1
+🗼	dong jing tie ta	1
+🕳	dong xue	1
+磁盘操作系统	dos	1
+o((⊙﹏⊙))o.	dou	1
+，	dou hao	1
+D盘	d pan	1
+▽	dsj	1
+▼	dsj	1
+〈〉	dsmh	1
+°	du	1
+👚	duan xiu	1
+👕	duan xiu shan	1
+＜（＾－＾）＞	dui	1
+√	dui	1
+◐	dui bi du	1
+∶	dui bi hao	1
+（＞人＜；）	dui bu qi	1
+🆚	dui da	1
+✔	dui de	1
+√	dui gou	1
+🗨	dui hua	1
+🆚	dui jue	1
+🆚	dui kang	1
+◑﹏◐	dui yan	1
+🆚	dui zhan	1
+🦄	du jiao shou	1
+⛴	du lun	1
+🛶	du mu zhou	1
+、	dun hao	1
+🛡	dun pai	1
+哆啦A梦	duo la a meng	1
+💸	duo shou	1
+⛅	duo yun	1
+👤	du zi deng dai	1
+(○｀′○)	du zui	1
+DVD	dvd	1
+数字多功能光盘	dvd	1
+DVD机	dvd ji	1
+＝	dy	1
+＞	dy	1
+≥	dydy	1
+‘’	dyh	1
+＞	dyh	1
+の	e	1
+(⊙﹏⊙)	e	1
+海峡两岸经济合作框架协议	ec fa	1
+😋	e le	1
+🥑	e li	1
+📧	e mai l	1
+🌒	e mei yue	1
+😈	e mo	1
+邮政快递	ems	1
+嗯~ o(*￣▽￣*)o	en	1
+英库	eng koo	1
+Engkoo拼音	eng koopy	1
+Engkoo拼音输入法	eng koopysrf	1
+E盘	e pan	1
+ε	ep si lo n	1
+情商	eq	1
+②	er	1
+Ⅱ	er	1
+👂	er	1
+🕑	er dian	1
+👂	er duo	1
+🎧	er ji	1
+🔞	er tong bu yi	1
+💪	er tou ji	1
+E时代	e shi dai	1
+η	e ta	1
+🤢	e xin	1
+🐊	e yu	1
+😐	fa dai	1
+{{{(>_<)}}}	fa dou	1
+👨‍⚖️	fa guan	1
+🥖	fa gun	1
+🥖	fa guo mian bao	1
+😠	fa huo	1
+╰（‵□′）╯	fa huo	1
+📤	fa jian xiang	1
+📜	fa ling	1
+🎛	fa men	1
+🙄	fan bai yan	1
+⛵	fan chuan	1
+(ﾟДﾟ*)ﾉ	fan dui	1
+🔍	fang da	1
+🔍	fang da jing	1
+🤸‍	fang en tou	1
+♦	fang kuai	1
+□	fang kuai	1
+■	fang kuai	1
+[]	fang kuo hao	1
+○|￣|_ =3	fang pi	1
+♦	fang pian	1
+☢	fang she xing	1
+😌	fang song	1
+🏘	fang wu	1
+☸	fang xiang duo	1
+🕹	fang xiang gan	1
+📽	fang ying ji	1
+🏠	fang zi	1
+◀	fan hui	1
+👆	fan shou zhi shang	1
+👇	fan shou zhi xia	1
+👉	fan shou zhi you	1
+👈	fan shou zhi zuo	1
+🍠	fan shu	1
+🤸‍	fan tiao	1
+🍙	fan tuan	1
+🙃	fan zhuan	1
+联合国粮农组织	fa o	1
+🧙‍	fa shi	1
+传真	fa x	1
+🌱	fa ya	1
+🎯	fei biao	1
+🛸	fei die	1
+✈	fei ji	1
+🈶	fei mian fei	1
+🏚	fei qi fang wu	1
+🛫	fei sheng	1
+😘	fei wen	1
+(*￣3￣)╭	fei wen	1
+👨‍✈️	fei xing yuan	1
+🚱	fei yin yong shui	1
+🌍	fei zhou	1
+′	fen	1
+✊	fen dou	1
+ u"'"	feng e fu	1
+🤐	feng kou	1
+🤪	feng kuang	1
+🎐	feng ling	1
+🚧	feng lu	1
+🍯	feng mi	1
+🍁	feng ye	1
+；	fen hao	1
+§	fen jie hao	1
+🤬	fen nu	1
+┗|｀O′|┛	fen nu	1
+( ´･･)ﾉ(._.`)	fen shou	1
+ u"'"	fgf	1
+；	fh	1
+－	fh	1
+国际篮联	fi ba	1
+国际足联	fi fa	1
+国际排联	fivb	1
+§	fjh	1
+福建电视台	fjtv	1
+[]	fkh	1
+🙅	fou ding	1
+📿	fo zhu	1
+♦	fp	1
+F盘	f pan	1
+自由贸易协议	f ta	1
+－	fu	1
+🛬	fu chong	1
+🔣	fu hao	1
+🔣	fu hao shu ru	1
+🗿	fu huo dao	1
+...( ＿ ＿)ノ｜	fu qiang	1
+🌺	fu rong	1
+☢	fu she	1
+🗻	fu shi shan	1
+💁	fu wu yuan	1
+☑	fu xuan kuang	1
+🖨	fu yin ji	1
+🍛	ga li fan	1
+γ	ga ma	1
+Γ	ga ma	1
+γ	ga m ma	1
+Γ	ga m ma	1
+🍻	gan bei	1
+[]~(￣▽￣)~*	gan bei	1
+(ಥ _ ಥ)	gan dong	1
+😅	gang a	1
+ u'	gang a	1
+✒	gang bi	1
+🎹	gang qin	1
+✨	gan jing	1
+🏈	gan lan qiu	1
+🤧	gan mao	1
+(⊙_⊙)？	gan sha	1
+❗	gan tan hao	1
+⁉	gan tan hao jia wen hao	1
+🙇‍	gan xie	1
+⛏	gao	1
+⛳	gao er fu	1
+🏌️‍	gao er fu qiu	1
+👠	gao gen xie	1
+🚟	gao jia tie lu	1
+搞siao	gao si ao	1
+🛣	gao su gong lu	1
+🚅	gao su lie che	1
+🚝	gao tie	1
+🤡	gao xiao	1
+😃	gao xing	1
+φ(゜▽゜*)♪	gao xing	1
+(′д｀σ)σ	gao zhuang	1
+☭	gcd	1
+广东发展银行	gdb	1
+国内生产总值	gdp	1
+广东电视台	gdtv	1
+m( _ _ )m	gei gui le	1
+🤙	gei wo da dian hua	1
+〽	ge qu kai shi	1
+🕊	ge zi	1
+格林威治标准时间	gmt	1
+国民生产总值	gnp	1
+<(￣︶￣)↗[GO!]	go	1
+☭	gong chan dang	1
+🏭	gong chang	1
+🚌	gong che	1
+🏛	gong dian	1
+📄	gong gao	1
+🚌	gong gong qi che	1
+🐓	gong ji	1
+🚌	gong jiao che	1
+🚏	gong jiao che zhan	1
+🚏	gong jiao zhan	1
+⚖	gong ping	1
+👨‍🏭	gong ren	1
+💼	gong wen bao	1
+⚖	gong zheng	1
+👸	gong zhu	1
+o(￣▽￣)ｄ	good	1
+谷歌	goog le	1
+🐕	gou	1
+U•ェ•*U	gou	1
+🛒	gou wu	1
+🛒	gou wu che	1
+🛍	gou wu dai	1
+🐻	gou xiong	1
+✔	gou xuan	1
+✅	gou xuan fu	1
+G盘	g pan	1
+全球定位系统	gps	1
+美国研究生入学考试	g re	1
+甘肃电视台	gstv	1
+！	gth	1
+🥁	gu	1
+💨	gua feng	1
+o(*^＠^*)o	guai	1
+👾	guai shou	1
+❎	guan bi	1
+⚰	guan cai	1
+🍢	guan dong zhu	1
+📡	guang bo	1
+😇	guang huan	1
+💿	guang pan	1
+🚂	guang u ang huo che	1
+📴	guan ji	1
+🥫	guan tou	1
+⚓	gu ding	1
+⚱	gu hui guan	1
+┏┛墓┗┓...(((m -__-)m	gui	1
+🙇‍	gui bai	1
+🐩	gui bin quan	1
+🙇‍	gui li	1
+😜	gui lian	1
+(￣┰￣*)	gui lian	1
+🤷‍	gui zhi dao	1
+🗄	gui zi	1
+😠	gun	1
+(ノ｀Д)ノ	gun	1
+🏞	guo jia gong yuan	1
+🌐	guo ji hua	1
+🎢	guo shan che	1
+🥘	guo wu	1
+🥧	guo xian bing	1
+🥧	guo xian pa	1
+🥧	guo xian pai	1
+🍹	guo zhi	1
+🍖	gu rou	1
+👏	gu zhang	1
+广西电视台	gxtv	1
+贵州电视台	gzstv	1
+😄	ha ha	1
+O(∩_∩)O	ha ha	1
+(｡･∀･)ﾉﾞ嗨	hai	1
+🏖	hai bian	1
+🏝	hai dao	1
+🛃	hai guan	1
+🌊	hai lang	1
+😰	hai pa	1
+🐬	hai tun	1
+海南电视台	hai tv	1
+😳	hai xiu	1
+(✿◡‿◡)	hai xiu	1
+🍈	ha mi gua	1
+😓	han	1
+(lll￢ω￢)	han	1
+🍔	han bao	1
+💦	han di	1
+👕	han shan	1
+💦	han shui	1
+😄	han xiao	1
+😓	han yan	1
+👌	hao	1
+b（￣▽￣）d　	hao	1
+╮(╯-╰)╭	hao ba	1
+😋	hao chi	1
+(╹ڡ╹ )	hao chi	1
+`(*>﹏<*)′	hao ci ji	1
+👌	hao de	1
+(u‿ฺu✿ฺ)	hao di	1
+😋	hao e	1
+😰	hao gang a	1
+(*^▽^*)	hao kai xin	1
+（*＾-＾*）	hao ke ai	1
+😎	hao ku	1
+😩	hao kun	1
+🙆‍	hao le	1
+😩	hao lei	1
+≡(▔﹏▔)≡	hao leng	1
+№	hao ma	1
+😍	hao mei	1
+㎜	hao mi	1
+😱	hao pa	1
+🧐	hao qi	1
+♪(´▽｀)	hao ting	1
+(#_<-)	hao tong	1
+(╯▽╰ )好香~~	hao xiang	1
+(≧∇≦)ﾉ	hao xi huan	1
+ヽ(✿ﾟ▽ﾟ)ノ	hao ye	1
+🤞	hao yun	1
+( •̀ .̫ •́ )✧	hao zhu yi	1
+🐀	hao zi	1
+(´▽`ʃ♡ƪ)	ha ppy	1
+😪	ha qian	1
+湖北电视台	hbtv	1
+※	hch	1
+≡	hd	1
+＆	he	1
+Σ	he	1
+𬌗	he	1
+河北电视台	he btv	1
+👘	he fu	1
+🙂	he he	1
+(￣▽￣)"	he he	1
+🤭	hei hei	1
+(●ˇ∀ˇ●)	hei hei	1
+🏴	hei qi	1
+♠	hei tao	1
+(￣_￣|||)	hei xian	1
+🖤	hei xin	1
+(⓿_⓿)	hei yan quan	1
+（￣。。￣）	he ma	1
+😕	heng	1
+(￢︿̫̿￢☆)	heng	1
+一	heng	1
+≡	heng deng	1
+☮	he ping	1
+🙏	he shou	1
+🥣	he tang	1
+🐡	he tun	1
+🚅	he xie hao	1
+🛠	he zuo	1
+H股	h gu	1
+Hi~ o(*￣▽￣*)ブ	hi	1
+○( ＾皿＾)っHiahiahia…	hiahia	1
+香港交易所	h ke x	1
+黑龙江电视台	hljtv	1
+№	hm	1
+㎜	hm	1
+河南电视台	hntv	1
+(￣y▽￣)╭ Ohohoho.....	hoho	1
+💋	hong chun	1
+🍷	hong jiu	1
+🀄	hong long	1
+🚦	hong lv deng	1
+♥	hong tao	1
+🀄	hong zhong	1
+😄	hou hou	1
+🐵	hou lian	1
+🐒	hou zi	1
+H盘	h pan	1
+℉	hs	1
+汇丰银行	hsbc	1
+℉	hsd	1
+♥	ht	1
+♠	ht	1
+❀	hua	1
+🛴	hua ban che	1
+⛸	hua bing	1
+🥦	hua cai	1
+(❤´艸｀❤)	hua chi	1
+🚣	hua chuan	1
+🌼	hua duo	1
+🏵	hua huan	1
+～(　TロT)σ	huai ren	1
+😏	huai xiao	1
+🤨	huai yi	1
+(→_→)	huai yi	1
+👨‍🎨	hua jia	1
+🎭	hua ju	1
+🎚	hua kuai	1
+🐿	hua li shu	1
+🏝	huang dao	1
+🏜	huang di	1
+🥒	huang gua	1
+👑	huang guan	1
+🌆	huang hun	1
+💛	huang xin	1
+o(><；)oo	huang zhang	1
+🙌	huan hu	1
+\^o^/	huan hu	1
+💱	huan qian	1
+💸	hua qian	1
+_〆(´Д｀ )	hua quan	1
+🥜	hua sheng	1
+🏵	hua shi	1
+℉	hua shi	1
+℉	hua shi du	1
+💐	hua shu	1
+🏂	hua xue	1
+🏂	hua xue ban	1
+🎴	hua zha	1
+🦋	hu die	1
+🎀	hu die jie	1
+(_　_)。゜zｚＺ	hu hu	1
+💱	hui dui	1
+◀	hui fang	1
+😖	hui hen	1
+💱	hui lv	1
+♻	hui shou	1
+(ToT)/~~~	hui shou pa	1
+🔙	hui tui	1
+☄	hui xing	1
+🖇	hui xing zhen	1
+📟	hu ji	1
+🦊	hu li	1
+(∪.∪ )...zzz	hu lu	1
+🥕	hu luo bo	1
+湖南电视台	hun an tv	1
+(x_x)	hun dao	1
+💒	hun li	1
+🚆	huo che	1
+🦃	huo ji	1
+🚀	huo jian	1
+🌋	huo shan	1
+🔥	huo yan	1
+🧔	hu xun an	1
+🛂	hu zhao jian cha	1
+国际原子能机构	iaea	1
+国际商用机器公司	ibm	1
+中国工商银行	icbc	1
+红十字国际委员会	icrc	1
+国际电工委员会	iec	1
+电气工程师学会	iee	1
+电气电子工程师学会	ieee	1
+雅思	ielts	1
+I服了U	i fu le u	1
+I服了You	i fu le you	1
+国际货币基金组织	imf	1
+国际奥委会	ioc	1
+ι	io ta	1
+首次公开上市	i po	1
+智商	iq	1
+国际标准化组织	iso	1
+网络服务提供商	isp	1
+独立软件开发商	isv	1
+信息技术	it	1
+国际电信联盟	i tu	1
+♭	jd	1
+☠	jd	1
+∫	jf	1
+·	jgh	1
+。	jh	1
+＋	jh	1
+－	jh	1
+＃	jh	1
+＋	jia	1
+甲A	jia a	1
+甲B	jia b	1
+➕	jia hao	1
+±	jia jian	1
+🗜	jia ju	1
+🚪	jia men	1
+🗡	jian	1
+－	jian	1
+🥞	jian bing	1
+🍳	jian dan	1
+✂	jian dao	1
+💇‍	jian fa	1
+🏆	jiang bei	1
+♭	jiang diao	1
+·	jiang e hao	1
+🛬	jiang luo	1
+🥇	jiang pai	1
+🏅	jiang zhang	1
+➖	jian hao	1
+🥟	jian jiao	1
+⌨	jian pan	1
+🤑	jian qian yan kai	1
+📋	jian qie ban	1
+➖	jian qu	1
+🏗	jian she	1
+🔍	jian suo	1
+🏁	jian su qi	1
+→	jian tou	1
+👷‍	jian zhu gong	1
+👷‍	jian zhu gong ren	1
+🏗	jian zhu shi gong	1
+∩	jiao	1
+∠	jiao	1
+(‾◡◝)	jiao ao	1
+👣	jiao bu	1
+🚗	jiao che	1
+∩	jiao ji	1
+🎞	jiao juan	1
+😔	jiao lv	1
+🎞	jiao pian	1
+🚲	jiao ta che	1
+⛪	jiao tang	1
+🥨	jiao yan juan bing	1
+👣	jiao yin	1
+🥟	jiao zi	1
+➕	jia shang	1
+💪	jia you	1
+(ง •_•)ง	jia you	1
+⛽	jia you zhan	1
+🗜	jia zi	1
+🚕	ji cheng che	1
+🛅	ji cun chu	1
+🥚	ji dan	1
+🤩	ji dong	1
+💒	jie hun	1
+🔚	jie shu	1
+💍	jie zhi	1
+∫	ji fen	1
+🤺	ji jian	1
+🈲	jin	1
+＃	jing	1
+Σ(っ °Д °;)っ	jing	1
+👮‍	jing cha	1
+🚓	jing che	1
+🚨	jing deng	1
+⚠	jing gao	1
+＃	jing hao	1
+😱	jing kong	1
+(^^ゞ	jing li	1
+🧝‍	jing ling	1
+❗	jing tan hao	1
+💂‍	jing wei	1
+╰(*°▽°*)╯	jing xi	1
+😨	jing xia	1
+😮	jing ya	1
+∑( 口 ||	jing ya	1
+🔕	jing yin	1
+🐋	jing yu	1
+💪	jing zhuang	1
+🆘	jin ji	1
+🔇	jin ming	1
+♉	jin niu zuo	1
+🥇	jin pai	1
+💴	jin qian	1
+🚭	jin yan	1
+🗝	jin yao shi	1
+😥	jin zhang	1
+⊙﹏⊙∥	jin zhang	1
+🙅‍	jin zhi	1
+⛔	jin zhi tong xing	1
+🚷	jin zhi xing ren	1
+😳	jiong	1
+( ╯□╰ )	jiong	1
+🤖	ji qi ren	1
+💪	ji rou	1
+⏲	ji shi	1
+🗒	ji shi ben	1
+⏲	ji shi qi	1
+🎸	ji ta	1
+🐔	ji tou	1
+🍗	ji tui	1
+⑨	jiu	1
+Ⅸ	jiu	1
+🕘	jiu dian	1
+🕤	jiu dian ban	1
+🚑	jiu hu che	1
+😖	jiu jie	1
+😟	jiu xin	1
+🗝	jiu yao shi	1
+⛑	jiu yuan	1
+🍸	ji wei jiu	1
+🖥	ji xiang	1
+🤖	ji xie ren	1
+(〃￣︶￣)人(￣︶￣〃)	ji zhang	1
+±	jj	1
+∩	jj	1
+吉林电视台	jltv	1
+→	jt	1
+🌯	juan bing	1
+➰	juan qu huan	1
+🤞	juan shou zhi	1
+（〃｀′〃）	jue zui	1
+。	ju hao	1
+🎖	jun gong zhang	1
+🖐	ju qi shou	1
+🤚	ju qi shou bei	1
+✊	ju quan	1
+🙋‍	ju shou	1
+o(*^▽^*)┛	ju shou	1
+♋	ju xie zuo	1
+🧡	ju xin	1
+🏋️‍	ju zhong	1
+🎦	jv chang	1
+🎦	jv yuan	1
+江西电视台	jxtv	1
+🕋	ka ba	1
+🚚	ka che	1
+🌼	kai hua	1
+🍾	kai jiu	1
+🔓	kai suo	1
+😝	kai wan xiao	1
+🍾	kai xiang bin	1
+😊	kai xin	1
+o(*￣▽￣*)ブ	kai xin	1
+🙄	kan bu qi	1
+(＠＾０＾)	kan hao ni	1
+🐨	kao la	1
+κ	ka pa	1
+κ	ka p pa	1
+😊	ke ai	1
+ u"(●'◡'●)"	ke ai	1
+🛳	ke chuan	1
+(°°)～	ke dou	1
+🕋	ke er bai	1
+🉑	ke jie shou de	1
+🙁	ke lian	1
+🛳	ke lun	1
+🈵	ke man	1
+🙆	ken ding	1
+🕳	keng	1
+ヽ(*。>Д<)o゜	ke pa	1
+🤖	ke sai	1
+😪	ke shui	1
+🥐	ke song	1
+(〃＞目＜)	ke wu	1
+ξ	ke xi	1
+🙆‍	ke yi	1
+（）	kh	1
+!(*￣(￣　*)	kiss	1
+😱	kong bu	1
+┌(。Д。)┐	kong bu	1
+😱	kong ju	1
+🦖	kong long	1
+🈳	kong que	1
+🈳	kong wei	1
+〖〗	kong xin kuo hao	1
+🕹	kong zhi gan	1
+🚡	kong zhong lan che	1
+💄	kou hong	1
+ˋ( ° ▽、° ) 	kou shui	1
+ξ	k si	1
+卡拉OK	ktv	1
+🆒	ku	1
+/(ㄒoㄒ)/~~	ku	1
+🛣	kuai che dao	1
+📦	kuai di	1
+⏩	kuai jin	1
+⏫	kuai shang	1
+🛥	kuai ting	1
+⏪	kuai tui	1
+⏬	kuai xia	1
+🥢	kuai zi	1
+🌖	kui tu yue	1
+💀	ku lou	1
+😴	kun	1
+(￣o￣) . z Z	kun le	1
+(o-ωｑ)).oO 困	kun si	1
+（）	kuo hao	1
+📣	kuo yin qi	1
+(;´༎ຶД༎ຶ`) 	ku si	1
+🥀	ku wei	1
+👖	ku zi	1
+K线	k xian	1
+〖〗	kxkh	1
+🔈	la ba	1
+🔤	la ding zi mu	1
+(^_-)db(-_^)	la gou	1
+o(*￣▽￣*)ブ	lai lai	1
+📩	lai xin	1
+🌶	la jiao	1
+🚮	la ji tong	1
+😁	la la	1
+♪(^∇^*)	la la	1
+λ	lambda	1
+λ	la mu da	1
+局域网	lan	1
+🚡	lan che	1
+🐺	lang	1
+〰	lang xian	1
+🐋	lan jing	1
+🏀	lan qiu	1
+💙	lan xin	1
+🐅	lao hu	1
+m( =∩王∩= )m	lao hu	1
+🎰	lao hu ji	1
+👵	lao lao	1
+🧓	lao nian ren	1
+🐀	lao shu	1
+👵	lao tai tai	1
+👴	lao tou zi	1
+👴	lao ye	1
+🕯	la zhu	1
+🤣	le fan	1
+(≧∀≦)ゞ	le he	1
+::>_<::	lei ben	1
+🌩	lei dian	1
+╯︿╰	lei le	1
+🦕	lei long	1
+⛈	lei yu	1
+⛈	lei zhen yu	1
+😓	leng han	1
+⊙﹏⊙∥	leng han	1
+(￣▽￣)"	leng xiao	1
+┌( ´_ゝ` )┐	leng yan	1
+(°ー°〃)	leng zhu	1
+联想	le novo	1
+³	lf	1
+m³	lfm	1
+💑	lian ai	1
+🕑	liang dian	1
+🕝	liang dian ban	1
+🤲	liang shou	1
+🤲	liang shou yi qi	1
+🤒	liang ti wen	1
+👡	liang xie	1
+😳	lian hong	1
+(*/ω＼*)	lian hong	1
+🔗	lian jie	1
+⛓	lian tiao	1
+👗	lian yi qun	1
+🛐	li bai	1
+🛐	li bai chang suo	1
+🚉	lie che	1
+💇‍	li fa	1
+💈	li fa dian	1
+m³	li fang	1
+³	li fang	1
+m³	li fang mi	1
+👍	li hai	1
+（。＾▽＾）	li hai	1
+🎉	li hua	1
+💪	li liang	1
+🎩	li mao	1
+㎝	li mi	1
+🔔	ling dang	1
+👛	ling qian bao	1
+🚿	lin yu	1
+⑥	liu	1
+Ⅵ	liu	1
+🕕	liu dian	1
+🕡	liu dian ban	1
+😓	liu han	1
+#NAME?	liu han	1
+✡	liu jiao xing	1
+🤤	liu kou shui	1
+(ˉ﹃ˉ)	liu kou shui	1
+😭	liu lei	1
+இ௰இ	liu lei	1
+⌛	liu shi	1
+🌠	liu xing	1
+❣	liu xue	1
+🎁	li wu	1
+🎏	li yu qi	1
+㎝	lm	1
+辽宁电视台	lntv	1
+LOLI控	lo li kong	1
+🐉	long	1
+🌪	long juan feng	1
+🐲	long tou	1
+✪	long zhu	1
+🗑	lou zi	1
+🦌	lu	1
+ u"~%?…	luan ma	1
+🚢	lun chuan	1
+♿	lun yi	1
+☸	luo pan	1
+🔩	luo si ding	1
+🐫	luo tuo	1
+🍂	luo ye	1
+🌳	luo ye shu	1
+⏺	lu xiang	1
+💚	lu xin	1
+⏺	lu yin	1
+🏕	lu ying	1
+🚧	lu zhang	1
+🥦	lv cai hua	1
+🍵	lv cha	1
+🏨	lv dian	1
+◇	lx	1
+◆	lx	1
+✪	lz	1
+🐎	ma	1
+⏱	ma biao	1
+🎤	mai ke feng	1
+😚	mai meng	1
+=￣ω￣=	mai meng	1
+🥔	ma ling shu	1
+💯	man fen	1
+🌕	man yue	1
+😌	man zu	1
+o(*￣︶￣*)o	man zu	1
+🐱	mao	1
+o(=•ェ•=)m	mao	1
+🖌	mao bi	1
+😓	mao han	1
+：	mao hao	1
+🐛	mao mao chong	1
+(‧‧)nnn	mao mao chong	1
+🦉	mao tou ying	1
+🧢	mao zi	1
+\(0^◇^0)/	ma que	1
+🚽	ma tong	1
+🎪	ma xi tuan	1
+🐜	ma yi	1
+工商管理硕士	m ba	1
+MD5	md	1
+╮（╯＿╰）╭	mei ban fa	1
+🌹	mei gui	1
+--<-<-<@	mei gui	1
+♣	mei hua	1
+💅	mei jia	1
+💵	mei jin	1
+🧜‍	mei ren yu	1
+Ψ(￣∀￣)Ψ	mei wei	1
+👌	mei wen ti	1
+ο(=•ω＜=)ρ⌒☆	mei yan	1
+＄	mei yuan	1
+💵	mei yuan	1
+💲	mei yuan fu hao	1
+🌎	mei zhou	1
+(✿◕‿◕✿)	mei zi	1
+(づ￣￣)づ	me me	1
+🚪	men	1
+😵	meng	1
+😙	meng meng da	1
+💫	meng quan	1
+🎫	men piao	1
+：	mh	1
+♣	mh	1
+㊙	mi	1
+🍞	mian bao	1
+🥙	mian bing	1
+🚐	mian di	1
+🆓	mian fei	1
+🍜	mian tiao	1
+😯	mian wu biao qing	1
+🐏	mian yang	1
+″	miao	1
+⏱	miao biao	1
+~o( =∩ω∩= )m	miao wu	1
+🐱	miao xing ren	1
+🍘	mi bing	1
+微软	mi crosoft	1
+ u'(￣_	mie shi	1
+🍚	mi fan	1
+🐝	mi feng	1
+🥝	mi hou tao	1
+💫	mi hu	1
+㊙	mi mi	1
+(oﾟvﾟ)ノ	ming bai	1
+ε(┬┬﹏┬┬)3	ming ku	1
+📛	ming pai	1
+📇	ming pian	1
+（＾∀＾●）ﾉｼ	ming tian jian	1
+μ	miu	1
+🈚	mo	1
+🧙‍	mo fa shi	1
+🍄	mo gu	1
+♑	mo jie zuo	1
+🕶	mo jing	1
+╰(￣ω￣ｏ)	mo mo	1
+🎡	mo tian lun	1
+🛵	mo tuo che	1
+🛥	mo tuo ting	1
+谅解备忘录	mou	1
+🐳	mo xiang jing	1
+🦑	mo yu	1
+MP3	mp	1
+MP4	mp	1
+MP5	mp	1
+微软	ms	1
+MTV	mtv	1
+音乐电视	mtv	1
+（づ￣3￣）づ╭❤～	mu a	1
+(⊙o⊙ )	mu deng kou dai	1
+🌺	mu jin	1
+👍	mu zhi xiang shang	1
+👎	mu zhi xiang xia	1
+＄	my	1
+🧀	nai lao	1
+👵	nai nai	1
+🐄	nai niu	1
+🍼	nai ping	1
+(///￣皿￣)○～	na li pao	1
+🚹	nan	1
+♂	nan	1
+👨‍🎤	nang e shou	1
+🎃	nang ua deng	1
+😔	nang uo	1
+(；′⌒`)	nang uo	1
+👦	nan hai zi	1
+(⊙o⊙)？	nan i	1
+👨	nan ren	1
+😫	nan shou	1
+≧ ﹏ ≦	nan shou	1
+👨‍❤️‍👨	nan tong	1
+👨‍🏫	nan zi xue xiao	1
+⏰	nao ling	1
+⏰	nao zhong	1
+🧠	nao zi	1
+美国国家航空航天局	na sa	1
+纳斯达克	na s da q	1
+北大西洋公约组织	na to	1
+NBA	n ba	1
+美国职业篮球联赛	n ba	1
+〒▽〒	nei niu man mian	1
+非政府组织	ngo	1
+--\(˙<>˙)/--	niao	1
+~(￣▽￣)~*	nie	1
+<( ‵□′)>───Ｃε(┬﹏┬)3	nie er duo	1
+<( ‵□′)───C＜─___-)||	nie lian	1
+\(@^0^@)/	ni hao	1
+ヾ(^▽^*)))	ni hui lai la	1
+🍋	ning meng	1
+🔄	ni shi zhen an niu	1
+🐂	niu	1
+( ఠൠఠ )ﾉ	niu	1
+牛B	niu b	1
+🥐	niu jiao bao	1
+🥛	niu nai	1
+📈	niu shi	1
+🥑	niu you guo	1
+🗽	niu yue	1
+🤠	niu zai	1
+N久	n jiu	1
+农历%M:lc%月%d:lc%	nl	1
+核磁共振	nmr	1
+内蒙古电视台	nmtv	1
+№	no	1
+农历%M:lc%月%d:lc%	nong l	1
+农历%M:lc%月%d:lc%	nong li	1
+👨‍🌾	nong min	1
+No problem	noprob le m	1
+😡	nu	1
+ε=( o｀ω′)ノ	nu	1
+🗯	nu hou	1
+✊	nu li	1
+🚺	nv	1
+♀	nv	1
+👩‍⚕️	nv bao jian yi sheng	1
+👩‍💻	nv cheng xu yuan	1
+👩‍🍳	nv chu shi	1
+👩‍🎓	nv da xue sheng	1
+👩‍⚖️	nv fa guan	1
+👩‍✈️	nv fei xing yuan	1
+👩‍🎤	nv ge shou	1
+👩‍🏭	nv gong ren	1
+👧	nv hai zi	1
+👩‍🎨	nv hua jia	1
+👩‍🔬	nv ke xue jia	1
+👩‍🌾	nv nong min	1
+👩	nv ren	1
+👝	nv shi bao	1
+👡	nv shi liang xie	1
+👩‍❤️‍👩	nv tong	1
+👸	nv wang	1
+👩‍🔧	nv wei xiu gong	1
+👩‍🚒	nv xiao fang yuan	1
+👩‍🎨	nv yi shu jia	1
+👩‍🚀	nv yu hang yuan	1
+👩‍💼	nv zhi yuan	1
+🚵‍	nv zi shan di qi che	1
+👩‍🏫	nv zi xue xiao	1
+宁夏电视台	nxtv	1
+纽约证券交易所	ny se	1
+(⊙o⊙)？	o	1
+原始设备制造商	oem	1
+🆗	ok	1
+Ω	o me ga	1
+ω	o me ga	1
+Ω	o mi ga	1
+Ω	o mi jia	1
+石油输出国组织	opec	1
+囧rz	orz	1
+○|￣|_	orz	1
+Ω	ou mi ga	1
+Ω	ou mi jia	1
+Ω	ou mu	1
+🤮	ou tu	1
+€	ou yuan	1
+💶	ou yuan	1
+🌍	ou zhou	1
+O形腿	o xing tui	1
+🅾	o xing xie	1
+🅾	o xing xue	1
+€	oy	1
+🥧	pa	1
+Π	pai	1
+🥧	pai	1
+🎬	pai dian ying	1
+🏐	pai qiu	1
+👏	pai shou	1
+📸	pai zhao	1
+o(*≧▽≦)ツ┏━┓	pai zhuo	1
+🦀	pang xie	1
+≡[。。]≡	pang xie	1
+🧗‍	pan yan	1
+ε=ε=ε=(~￣▽￣)~	pao	1
+泡BAR	pao ba	1
+泡BAR	pao ba r	1
+⏱	pao biao	1
+🏃‍	pao bu	1
+⚓	pao mao	1
+🛀	pao zao	1
+━((*′д｀)爻(′д｀*))━!!!!	pa pa	1
+🛫	pa sheng	1
+中国人民银行	pbc	1
+个人电脑	pc	1
+🥓	pei gen	1
+🥂	peng bei	1
+💗	peng zhang de xin	1
+💥	peng zhuang	1
+⛲	pen quan	1
+全国公共英语等级考试	pets	1
+²	pf	1
+㎡	pfm	1
+φ	phi	1
+Φ	phi	1
+Pia!(ｏ ‵-′)ノ”(ノ﹏<。)	pi a	1
+🤥	pian ren	1
+(～o￣3￣)～	piao	1
+🐞	piao chong	1
+丿	pie	1
+😕	pie zui	1
+🍺	pi jiu	1
+🥃	ping di bei	1
+²	ping fang	1
+㎡	ping fang mi	1
+🍎	ping guo	1
+⚖	ping heng	1
+㎡	ping mi	1
+🏓	ping pang qiu	1
+乒乓	ping po ng	1
+乒乓球	ping po ng qiu	1
+∥	ping xing	1
+🍕	pi sa	1
+👞	pi xie	1
+PK	pk	1
+人民解放军	p la	1
+PM2.5	pm	1
+㎡	pm	1
+下午	pm	1
+采购经理人指数	p mi	1
+POS机	po s ji	1
+——	po zhe hao	1
+生产者物价指数	p pi	1
+购买力平价	ppp	1
+中华人民共和国	prc	1
+ψ	p si	1
+(/≧▽≦)/	pu	1
+🎴	pu ke	1
+🍇	pu tao	1
+∥	px	1
+——	pzh	1
+质量保证	qa	1
+Q吧	q ba r	1
+Q币	q bi	1
+Q宠	q chong	1
+≌	qd	1
+≡	qdh	1
+Q点	q dian	1
+合格境内机构投资者	q di i	1
+≡	qdy	1
+‰	qf	1
+‰	qfh	1
+合格境外机构投资者	qfii	1
+‰	qfz	1
+Σ	qh	1
+Q号	q hao	1
+⑦	qi	1
+Ⅶ	qi	1
+💴	qian	1
+( $ _ $ )	qian	1
+✏	qian bi	1
+💰	qian dai	1
+‰	qian fen	1
+‰	qian fen hao	1
+‰	qian fen zhi	1
+👍	qiang	1
+💪	qiang zhuang	1
+㎞	qian mi	1
+👫	qian shou	1
+💁‍	qian tai jie dai	1
+🙄	qiao bu qi	1
+🍫	qiao ke li	1
+💝	qiao ke li he	1
+🚗	qi che	1
+🛣	qi che dao	1
+(☆▽☆)	qi dai	1
+🚴‍	qi dan che	1
+🕖	qi dian	1
+🕢	qi dian ban	1
+🐧	qie	1
+(ˉ▽￣～) 切~~	qie	1
+🍆	qie zi	1
+🛫	qi fei	1
+ヾ(≧へ≦)〃	qi fen	1
+🧐	qi guai	1
+🏇	qi ma	1
+🏍	qi mo tuo che	1
+😙	qin	1
+🌤	qing	1
+🆑	qing chu jian	1
+📵	qing guan ji	1
+🚈	qing gui	1
+🚈	qing gui huo che	1
+🌥	qing jian duo yun	1
+🍶	qing jiu	1
+🏩	qing lv jiu dian	1
+(´ｰ∀ｰ`)	qing mie	1
+🍏	qing ping guo	1
+🎋	qing ren jie	1
+🔉	qing sheng	1
+💌	qing shu	1
+🐸	qing wa	1
+🚯	qing wu luan tou fei qi wu	1
+🌃	qing ye	1
+🕌	qing zhen si	1
+🍾	qing zhu	1
+😗	qin qin	1
+(づ￣￣)づ	qin qin	1
+💏	qin wen	1
+🎈	qi qiu	1
+奇瑞QQ	qi rui qq	1
+👿	qi si	1
+Σ	qiu he	1
+🆘	qiu jiu	1
+🥅	qiu men	1
+🥅	qiu men wang	1
+(っ´Ι`)っ	qiu qiu ni	1
+🎋	qi xi	1
+🎋	qi xi shu	1
+🥝	qi yi guo	1
+🤯	qi zha	1
+🚩	qi zi	1
+🚴‍	qi zi xing che	1
+㎞	qm	1
+QQ爱墙	qq ai qiang	1
+QQ表情	qq biao qing	1
+QQ表情	qqbq	1
+QQ宠物	qq chong wu	1
+QQ宠物	qqcw	1
+QQ充值	qqcz	1
+QQ飞车	qqfc	1
+QQ飞车	qq fei che	1
+QQ飞行岛	qq fei xing dao	1
+QQ飞行岛	qqfxd	1
+QQ游戏	qq ga me	1
+QQ号码	qq hao ma	1
+QQ好友	qq hao you	1
+QQ号码	qqhm	1
+QQ幻想	qq huan xiang	1
+QQ会员	qq hui yuan	1
+QQ幻想	qqhx	1
+QQ会员	qqhy	1
+QQ好友	qqhy	1
+QQ家园	qq jia yuan	1
+QQ家园	qqjy	1
+QQ空间	qqkj	1
+QQ空间	qq kong jian	1
+qq空间	qq kong jian	1
+QQ邮箱	qq mai l	1
+QQ农场	qqnc	1
+QQ拼音	qq pin yin	1
+QQ拼音输入法	qq pin yin shu ru fa	1
+QQ拼音	qqpy	1
+QQ拼音输入法	qqpysrf	1
+QQ签名	qq qian ming	1
+QQ签名	qqqm	1
+QQ群	qq qun	1
+QQ三国	qq sang uo	1
+QQ三国	qqsg	1
+QQ秀	qqshow	1
+QQ书签	qq shu qian	1
+QQ输入法	qq shu ru fa	1
+QQ书签	qqsq	1
+QQ堂	qqt	1
+QQ堂	qq tang	1
+QQ团购	qqtg	1
+QQ团购	qq tuan gou	1
+QQ相册	qqxc	1
+QQ旋风	qqxf	1
+QQ相册	qq xiang ce	1
+QQ秀	qq xiu	1
+QQShow	qq xiu	1
+QQ炫舞	qq xuan wu	1
+QQ寻仙	qq xun xian	1
+QQ旋窝	qqxw	1
+QQ炫舞	qqxw	1
+QQ寻仙	qqxx	1
+QQ音速	qq yin su	1
+QQ音乐	qq yin yue	1
+QQ游戏	qq you xi	1
+QQ音速	qqys	1
+QQ邮箱	qqyx	1
+QQ影音	qqyy	1
+QQ音乐	qqyy	1
+QQ桌面	qq zhuo mian	1
+QQ桌面	qqzm	1
+≌	quan deng	1
+≡	quan deng hao	1
+≡	quan deng yu	1
+🥊	quan ji shou tao	1
+⛲	quan shui	1
+🕳	quan tao	1
+👊	quan tou	1
+🆕	quan xin	1
+🖇	qu bie zhen	1
+🏑	qu gun qiu	1
+🏧	qu kuan ji	1
+🦗	qu qu	1
+😠	qu si	1
+QZone	qzo ne	1
+随机存储器	ram	1
+🚧	rao xing	1
+🐠	re dai yu	1
+🌭	re gou	1
+￥	ren min bi	1
+💴	ren min bi	1
+🧜‍	ren yu	1
+🐱‍👤	ren zhe shen mao	1
+☕	re yin	1
+∠	rf	1
+ρ	rho	1
+🗾	ri ben	1
+🎎	ri ben wa wa	1
+🌅	ri chu	1
+📅	ri li	1
+🌇	ri luo	1
+%yyyy%年%M%月%d%日	ri q	1
+%yyyy%年%M%月%d%日	ri qi	1
+🏯	ri shi cheng bao	1
+💴	ri yuan	1
+￥	rmb	1
+只读存储器	rom	1
+🥩	rou	1
+ρ	rou	1
+🥧	rou xian bing	1
+%yyyy%年%M%月%d%日	rq	1
+💾	ruan pan	1
+🥤	ruan yin	1
+🎟	ru chang quan	1
+∠	rui jiao	1
+(。・・)ノ	ruo	1
+ u'*★	sa hua	1
+Symbian	sai ban	1
+🏎	sai che	1
+🏇	sai ma	1
+🚣‍	sai ting	1
+🎷	sa ke si	1
+③	san	1
+Ⅲ	san	1
+🌂	san	1
+🚶‍	san bu	1
+🔱	san cha de	1
+🕒	san dian	1
+🕞	san dian ban	1
+📐	san jiao ban	1
+🚩	san jiao qi	1
+🔺	san jiao xing	1
+▲	san jiao xing	1
+🥪	san ming zhi	1
+🥪	san wen zhi	1
+☘	san ye cao	1
+非典	sa rs	1
+学术才能测验	sa t	1
+®	sb	1
+™	sb	1
+四川电视台	sctv	1
+♯	sd	1
+深圳发展银行	sdb	1
+SD卡	sd ka	1
+山东电视台	sdtv	1
+😍	se	1
+傻B	sha b	1
+傻Ⅹ	sha cha	1
+🛋	sha fa	1
+🤓	sha gua	1
+🥗	sha la	1
+⏳	sha lou	1
+🏜	sha mo	1
+⚡	shan dian	1
+🚵‍	shan di che	1
+👆	shang	1
+↑	shang	1
+™	shang biao	1
+🔝	shang fang	1
+⬆	shang jian tou	1
+💖	shang u ang de xin	1
+⤴	shang wan you jian tou	1
+↕	shang xia jian tou	1
+🌓	shang xian yue	1
+😟	shang xin	1
+(T_T)	shang xin	1
+🌛	shang xuan yue	1
+🧥	shang yi	1
+⏮	shang yi ge	1
+🎑	shang yue	1
+🌄	shan jian ri chu	1
+❇	shan liang	1
+💖	shan liang de xin	1
+⛰	shan mai	1
+🚞	shan qu tie dao	1
+山西电视台	shan xi tv	1
+🐐	shan yang	1
+✨	shan yao	1
+🐗	shan zhu	1
+🥄	shao zi	1
+⛱	sha tan san	1
+🦈	sha yu	1
+🐍	she	1
+⚙	she ding	1
+⛎	she fu zuo	1
+🏹	she jian	1
+什么	shen em	1
+🆔	shen fen	1
+🆔	shen fen zheng	1
+😷	sheng bing	1
+(≧﹏ ≦)	sheng bing	1
+🎄	sheng dan	1
+🎄	sheng dan kuai le	1
+🤶	sheng dan lao po po	1
+🎅	sheng dan lao ren	1
+🎄	sheng dan shu	1
+♯	sheng diao	1
+☣	sheng hua	1
+🆙	sheng ji	1
+✌	sheng li	1
+^o^y	sheng li	1
+……	sheng lu e hao	1
+🤯	sheng qi	1
+(╯▔皿▔)╯	sheng qi	1
+🔊	sheng yin	1
+(⊙ˍ⊙)？	shen me	1
+⛩	shen she	1
+🧚	shen xian	1
+🌉	shen ye	1
+℃	she shi	1
+℃	she shi du	1
+♐	she shou zuo	1
+👅	she tou	1
+📹	she xiang ji	1
+🎥	she ying ji	1
+⚙	she zhi	1
+⑩	shi	1
+Ⅹ	shi	1
+ヾ(＠⌒ー⌒＠)ノ	shi a	1
+💞	shi ai	1
+🕙	shi dian	1
+🕥	shi dian ban	1
+🍓	shi duo li pi	1
+🕛	shi er dian	1
+🕧	shi er dian ban	1
+ԅ(¯﹃¯ԅ)	shi huai	1
+%HH%点%mm%分	shi j	1
+%HH%点%mm%分	shi jian	1
+🗺	shi jie di tu	1
+(￣m￣）	shi ma	1
+(σ｀д′)σ	shi ni	1
+😔	shi wang	1
+🗿	shi xiang	1
+【】	shi xin kuo hao	1
+🕚	shi yi dian	1
+🕦	shi yi dian ban	1
+🦁	shi zi	1
+✝	shi zi jia	1
+♌	shi zi zuo	1
+🤚	shou bei mian	1
+⌚	shou biao	1
+🎮	shou bing	1
+😫	shou bu liao	1
+🔦	shou dian tong	1
+📱	shou ji	1
+📥	shou jian xiang	1
+手机QQ	shou ji qq	1
+🔫	shou qiang	1
+🤾‍	shou qiu	1
+🤕	shou shang	1
+🍣	shou si	1
+🧤	shou tao	1
+👜	shou ti bao	1
+🛍	shou ti dai	1
+🛒	shou tui che	1
+⚔	shou wei	1
+📻	shou yin ji	1
+🤞	shou zhi jiao cha	1
+📕	shu	1
+(′д｀ )…彡…彡	shuai	1
+🤼‍	shuai jiao	1
+🏺	shuang er ping	1
+🐫	shuang feng luo tuo	1
+🐫	shuang feng tuo	1
+‼	shuang gan tan hao	1
+🎒	shuang jian bao	1
+➿	shuang qu huan	1
+🤲	shuang shou	1
+🙏	shuang shou he shi	1
+‖	shuang shu xian	1
+“”	shuang yin hao	1
+♓	shuang yu zuo	1
+♊	shuang zi zuo	1
+🎒	shu bao	1
+📚	shu ben	1
+🖱	shu biao	1
+🥗	shu cai sha la	1
+🥧	shu cai xian bing	1
+🤓	shu dai zi	1
+💆‍	shu fu	1
+💧	shui di	1
+🔪	shui guo dao	1
+💤	shui jiao	1
+(～﹃～)~zZ	shui jiao	1
+🍑	shui mi tao	1
+(:≡	shui mu	1
+🐃	shui niu	1
+♒	shui ping zuo	1
+🤽‍	shui qiu	1
+《》	shu ming hao	1
+🌳	shu mu	1
+🔃	shun shi zhen	1
+🤥	shuo da hua	1
+💬	shuo hua	1
+🤥	shuo huang	1
+🔖	shu qian	1
+🧔	shu shu	1
+🍟	shu tiao	1
+📕	shu xiang	1
+✍	shu xie	1
+📃	shu xin	1
+🍃	shu ye	1
+∈	shu yu	1
+🔢	shu zi	1
+o(*////▽////*)q	shy	1
+④	si	1
+Ⅳ	si	1
+🎗	si dai	1
+💝	si dai xin	1
+🕓	si dian	1
+🕟	si dian ban	1
+( ′`) sigh~	si gh	1
+σ	si g ma	1
+Σ	si g ma	1
+🚗	si jia che	1
+🦎	si jiao she	1
+🤔	si kao	1
+🚙	si lun che	1
+🚙	si lun qu dong	1
+㊙	si mi	1
+🍀	si ye cao	1
+📆	si zhi ri li	1
+%HH%点%mm%分	sj	1
+手机QQ	sjqq	1
+↑	sjt	1
+△	sjx	1
+▲	sjx	1
+……	slh	1
+《》	smh	1
+Sogou	so gou	1
+🌲	song shu	1
+🎍	song shu zhuang shi	1
+<( _ _ )>	sorry	1
+🔍	sou suo	1
+浦发银行	spdb	1
+℃	ss	1
+℃	ssd	1
+上海证券交易所	s se	1
+『』	ssmh	1
+‖	ssx	1
+上海电视台	stv	1
+🔀	sui ji bo fang	1
+🤫	su jing	1
+🔒	suo	1
+🚡	suo dao	1
+🔐	suo tou	1
+∴	suo yi	1
+【】	sxkh	1
+陕西电视台	sxtv	1
+∴	sy	1
+∈	syh	1
+“”	syh	1
+深圳证券交易所	sz se	1
+ㄟ(≧◇≦)ㄏ	tai bang le	1
+😤	tai guo fen	1
+o((>ω< ))o	tai hao le	1
+🎱	tai qiu	1
+☀	tai yang	1
+🕶	tai yang jing	1
+🌞	tai yang lian	1
+🏯	ta lou	1
+⏏	tan chu	1
+🥄	tang chi	1
+🍬	tang guo	1
+_(:з)∠)_	tang qiang	1
+♨	tang quan	1
+🥄	tang shao	1
+！	tan hao	1
+⛹️‍	tan li qiu	1
+🤦‍	tan qi	1
+┑(￣Д ￣)┍	tan shou	1
+ε=ε=ε=┏(゜ロ゜;)┛	tao	1
+😋	tao qi	1
+(ノω<。)ノ))☆.。	tao yan	1
+🍑	tao zi	1
+( *︾▽︾)	tao zui	1
+o(TヘTo)	ta t	1
+τ	ta u	1
+Tencent	te n cen t	1
+腾讯	te n cen t	1
+！	th	1
+θ	t he ta	1
+Θ	t he ta	1
+☆⌒(*＾-゜)v THX!!	thx	1
+♎	tian cheng zuo	1
+🕋	tian fang	1
+⚖	tian ping	1
+👼	tian shi	1
+🍩	tian tian quan	1
+🍦	tian tong	1
+♏	tian xie zuo	1
+🏡	tian yuan	1
+😜	tiao pi	1
+🎨	tiao se ban	1
+📜	tiao wen	1
+💃	tiao wu	1
+ヾ(≧ ▽ ≦)ゝ	tiao wu	1
+📊	tiao xing tu	1
+👝	ti bao	1
+⛓	tie lian	1
+🛤	tie lu	1
+🚃	tie lu che	1
+🛤	tie lu gui dao	1
+⏹	ting	1
+🅿	ting che	1
+🅿	ting che chu	1
+♪(´▽｀)	ting ge	1
+🆖	ting ji	1
+🛑	ting zhi	1
+🌡	ti wen ji	1
+⏰	ti xing	1
+🎗	ti xing si dai	1
+T恤	ti xu	1
+👕	ti xu	1
+🏟	ti yu chang	1
+🏟	ti yu guan	1
+天津电视台	tjtv	1
+™	tm	1
+托福	toefl	1
+~~>_<~~	tong ku	1
+🥉	tong pai	1
+🙋‍	tong yi	1
+(。・∀・)ノ	tong yi	1
+(/ω＼*)……… (/ω•＼*)	tou kan	1
+🗳	tou piao	1
+🗳	tou piao xiang	1
+🤦‍	tou teng	1
+┗( T﹏T )┛	tou xiang	1
+🤭	tou xiao	1
+😵	tou yun	1
+😵	tou yun nao zhang	1
+💫	tou yun yan hua	1
+🎲	tou zi	1
+T恤	t shi rt	1
+T台	t tai	1
+🤮	tu	1
+🍡	tuan zi	1
+📌	tu ding	1
+🥔	tu dou	1
+🏺	tu guan	1
+(ﾉ*･ω･)ﾉ	tui dao	1
+🤮	tu le	1
+🚛	tuo che	1
+🚜	tuo la ji	1
+ヽ(゜▽゜　)－C<(/;◇;)/~	tuo zou	1
+😛	tu she tou	1
+📖	tu shu	1
+🐇	tu zi	1
+T型台	t xing tai	1
+☀	ty	1
+U盾	u dun	1
+不明飞行物	u fo	1
+联合国	un	1
+联合国儿童基金会	u ne ci f	1
+联合国教科文组织	u ne sco	1
+υ	up si lo n	1
+统一资源定位器	url	1
+U型管	u xing guan	1
+贵宾	vip	1
+(*￣rǒ￣)	wa bi shi	1
+🥡	wai mai	1
+🧥	wai tao	1
+👽	wai xing ren	1
+🖖	wa ken	1
+🖖	wa ken ju shou li	1
+⛏	wa kuang	1
+广域网	wan	1
+(￣o￣) . z Z	wan an	1
+👸	wang fei	1
+🃏	wang pai	1
+🎾	wang qiu	1
+🔭	wang yuan jing	1
+🤴	wang zi	1
+🆒	wan mei	1
+🌃	wan shang	1
+🎃	wan sheng jie	1
+~\(≧▽≦)/~	wan sui	1
+🍡	wan zi	1
+(o゜▽゜)o☆	wa sai	1
+🧦	wa zi	1
+℃	wd	1
+(#`O′)	wei	1
+( *^-^)ρ(^0^* )	wei fan	1
+🧣	wei jin	1
+😔	wei qu	1
+╥﹏╥...	wei qu	1
+Microsoft	wei ruan	1
+🚾	wei sheng jian	1
+维生素C	wei sheng su c	1
+⛑	wei shi	1
+☠	wei xian	1
+🙂	wei xiao	1
+~~~///(^v^)\\\~~~	wei xiao	1
+🛰	wei xing	1
+👨‍🔧	wei xiu gong	1
+📍	wei zhi	1
+😚	wen	1
+(*￣;(￣ *)	wen bie	1
+℃	wen du	1
+🌡	wen du ji	1
+❓	wen hao	1
+🗄	wen jiang ui	1
+📂	wen jian jia	1
+♨	wen quan	1
+ℹ	wen xun chu	1
+？	wh	1
+世界卫生组织	who	1
+☆	wjx	1
+★	wjx	1
+🤟	wo ai ni	1
+(。﹏。*)	wo cuo le	1
+||ヽ(*￣▽￣*)ノミ|Ю	wo hui lai la	1
+我叫MT	wo jiao mt	1
+щ(ʘ╻ʘ)щ	wo le ge qu	1
+🐌	wo niu	1
+🤝	wo shou	1
+wow~ ⊙o⊙	wo w	1
+∞	wq	1
+世界贸易组织	wto	1
+⑤	wu	1
+Ⅴ	wu	1
+🕔	wu dian	1
+🕠	wu dian ban	1
+（o´・ェ・｀o）	wu gu	1
+🐢	wu gui	1
+☆	wu jiao xing	1
+★	wu jiao xing	1
+🤦‍	wu ken ai he	1
+🤦‍	wu lian	1
+つ﹏⊂	wu lian	1
+(￣、￣)	wu liao	1
+🌁	wu mai	1
+😔	wu nai	1
+╮(╯▽╰)╭	wu nai	1
+∞	wu qiong	1
+🔇	wu sheng	1
+(☆-ｖ-)	wu shi	1
+🥋	wu shu fu	1
+🥋	wu shu zhi fu	1
+🐨	wu wei xiong	1
+┭┮﹏┭┮	wu wu	1
+∞	wu xian	1
+📶	wu xian wang	1
+．<{=．．．．	wu ya	1
+😶	wu yu	1
+(ˉ▽ˉ；)...	wu yu	1
+🦑	wu zei	1
+♀	xb	1
+♂	xb	1
+/	xg	1
+\	xg	1
+❄	xh	1
+👇	xia	1
+↓	xia	1
+(*Φ皿Φ*)	xia	1
+🌗	xia ban yue	1
+📉	xia cuo	1
+⬇	xia jian tou	1
+🛬	xia luo	1
+💕	xiang ai	1
+🌿	xiang cao	1
+📷	xiang ji	1
+🍌	xiang jiao	1
+😢	xiang ku	1
+🖼	xiang kuang	1
+📿	xiang lian	1
+🌻	xiang ri kui	1
+👆	xiang shang	1
+⬆	xiang shang jian tou	1
+🚛	xiang shi huo che	1
+👇	xiang xia	1
+⬇	xiang xia jian tou	1
+💭	xiang xiang	1
+🌻	xiang yang hua	1
+👉	xiang you	1
+👈	xiang zuo	1
+🌵	xian ren zhang	1
+🔬	xian wei jing	1
+(╯‵□′)╯︵┻━┻	xian zhuo	1
+🧚‍	xian zi	1
+😀	xiao	1
+(*^_^*)	xiao	1
+🤡	xiao chou	1
+🃏	xiao chou pai	1
+🚒	xiao fang che	1
+👨‍🚒	xiao fang yuan	1
+🛩	xiao fei ji	1
+🐕	xiao gou	1
+🎺	xiao hao	1
+🔅	xiao hua	1
+🐥	xiao ji	1
+🚗	xiao jiao che	1
+😂	xiao ku	1
+（）	xiao kuo hao	1
+🐁	xiao lao shu	1
+😊	xiao lian	1
+☺	xiao lian	1
+ u"(●'◡'●)"	xiao lian	1
+🐦	xiao niao	1
+🤣	xiao pa	1
+🔈	xiao sheng	1
+🤣	xiao si	1
+👼	xiao tian shi	1
+🎻	xiao ti qin	1
+🃏	xiao wang	1
+🦐	xiao xia	1
+🧚‍	xiao xian zi	1
+🔡	xiao xie	1
+🔡	xiao xie zi mu	1
+🚐	xiao xing che	1
+ฅʕ•̫͡•ʔฅ	xiao xiong	1
+＜	xiao yu	1
+≤	xiao yu deng yu	1
+＜	xiao yu hao	1
+🐖	xiao zhu	1
+( ¯(∞)¯ )	xiao zhu	1
+⤵	xia wan you jian tou	1
+🌘	xia xian yue	1
+🌜	xia xuan yue	1
+🌨	xia xue	1
+⏭	xia yi ge	1
+🌧	xia yu	1
+🌎	xi ban qiu	1
+🍽	xi can	1
+✍	xie	1
+😈	xie e	1
+( ‵▽′)ψ	xie e	1
+/	xie gang	1
+\	xie gang	1
+谢啦!!☆⌒(*＾-゜)v	xie la	1
+( ﹁ ﹁ ) ~→	xie yan	1
+🦂	xie zi	1
+🛠	xie zuo	1
+∑	xi ge ma	1
+Σ	xi ge ma	1
+σ	xi ge ma	1
+🍉	xi gua	1
+🥤	xi guan bei	1
+🍅	xi hong shi	1
+(❤ ω ❤)	xi huan	1
+🤟	xi huan ni	1
+👊	xi ji	1
+🦕	xi jiao long	1
+🎭	xi ju	1
+🥦	xi lan hua	1
+♥	xin	1
+⚜	xin ao er liang sheng tu dui	1
+😠	xin fan	1
+✉	xin feng	1
+※	xing	1
+♀	xing bie	1
+♂	xing bie	1
+🤩	xing fen	1
+(p≧w≦q)	xing fen	1
+o(*￣▽￣*)o	xing fu	1
+✴	xing guang	1
+✳	xing hao	1
+🛄	xing li ti qu	1
+⭐	xing xing	1
+(★ ω ★)	xing xing yan	1
+🤞	xing yun	1
+🍀	xing yun cao	1
+🥠	xing yun qu qi	1
+🚦	xin hao deng	1
+🦏	xin iu	1
+📃	xin jian	1
+🤵	xin lang	1
+👰	xin niang	1
+💔	xin sui	1
+💓	xin tiao	1
+😧	xin tong	1
+ℹ	xin xi	1
+💕	xin xin xiang yin	1
+💁‍	xin xi tai ren yuan	1
+📫	xin you jian	1
+🌑	xin yue	1
+📃	xin zhi	1
+🐻	xiong	1
+(￣(工)￣)	xiong	1
+🗣	xiong bian	1
+📛	xiong pai	1
+📉	xiong shi	1
+♂	xiong xing	1
+🚾	xi shou jian	1
+🦗	xi shuai	1
+θ	xi ta	1
+Θ	xi ta	1
+🤭	xi xi	1
+ u"(●'◡'●)"	xi xi	1
+🧛‍	xi xue gui	1
+🚬	xi yan	1
+🌇	xi yang	1
+🦎	xi yi	1
+🛀	xi zao	1
+↓	xjt	1
+新疆电视台	xjtv	1
+（）	xkh	1
+☃	xr	1
+🤫	xu	1
+🧢	xuan chuan mao	1
+🌀	xuan feng	1
+🚟	xuan fu tie lu	1
+🗣	xuan jiang	1
+🎠	xuan zhuan mu ma	1
+🤓	xue ba	1
+❄	xue hua	1
+🛷	xue qiao	1
+⛄	xue ren	1
+🏔	xue shan	1
+🏫	xue xiao	1
+👢	xue zi	1
+👎	xun	1
+🦌	xun lu	1
+🎖	xun zhang	1
+🔎	xun zhao	1
+⭐	xx	1
+♂	xx	1
+X形腿	x xing tui	1
+＜	xy	1
+≤	xydy	1
+＜	xyh	1
+西藏电视台	xztv	1
+🍐	ya li	1
+👁	yan	1
+🐏	yang	1
+🔈	yang sheng qi	1
+🥔	yang yu	1
+🎇	yan hua	1
+(◎﹏◎)	yan hua	1
+🎇	yan huo	1
+🗣	yan jiang	1
+👀	yan jing	1
+😢	yan lei	1
+🤢	yan wu	1
+🧞‍	yao guai	1
+🤘	yao gun	1
+🔑	yao shi	1
+👋	yao shou	1
+💊	yao wan	1
+😬	yao ya qie chi	1
+🗜	ya suo	1
+🌏	ya zhou	1
+🦆	ya zi	1
+￡	yb	1
+·	yd	1
+≈	ydy	1
+✌	ye	1
+( •̀ ω •́ )y	ye	1
+🌉	ye jing	1
+🌴	ye shu	1
+🌃	ye wan	1
+👴	ye ye	1
+🏕	ye ying	1
+🐗	ye zhu	1
+🥥	ye zi	1
+🌴	ye zi shu	1
+🎶	yf	1
+⌒	yh	1
+①	yi	1
+Ⅰ	yi	1
+🍝	yi da li mian	1
+🕐	yi dian	1
+·	yi dian	1
+🕜	yi dian ban	1
+(・∀・(・∀・(・∀・*)	yi huo	1
+一键root	yi jian root	1
+💘	yi jian zhong qing	1
+👳‍	yin du ren	1
+🎶	yin fu	1
+🦅	ying	1
+￡	ying bang	1
+💷	ying bang	1
+👶	ying er	1
+🌸	ying hua	1
+🍒	ying tao	1
+🌔	ying tu yue	1
+🖨	ying yin ji	1
+🏦	yin hang	1
+💳	yin hang ka	1
+🌌	yin he	1
+🥤	yin liao	1
+㊙	yin mi	1
+🥈	yin pai	1
+∵	yin wei	1
+☯	yin yang	1
+☯	yin yang yu	1
+🚰	yin yong shui	1
+🎵	yin yue	1
+ヽ(￣ω￣(￣ω￣〃)ゝ	yi qi	1
+⛑	yi sheng	1
+👨‍🎨	yi shu jia	1
+☪	yi si lan	1
+η	yi ta	1
+⚕	yi yao	1
+🏥	yi yuan	1
+@	yj	1
+→	yjt	1
+）	ykh	1
+云南电视台	yntv	1
+(＾Ｕ＾)ノ~ＹＯ	yo	1
+🤗	yong bao	1
+👉	you	1
+→	you	1
+🔜	you bian	1
+🤜	you ce quan	1
+☠	you du	1
+🙁	you gan	1
+🚊	you gui dian che	1
+🤜	you ji	1
+📧	you jian	1
+➡	you jian tou	1
+🏣	you ju	1
+）	you kuo hao	1
+(o゜▽゜)o☆	you le	1
+👻	you ling	1
+🐤	you niao	1
+🤛	you quan	1
+||o(*°▽°*)o|Ю [有人吗?]	you ren ma	1
+↗	you shang	1
+🕍	you tai jiao tang	1
+🛢	you tong	1
+↪	you wan zuo jian tou	1
+↘	you xia	1
+📫	you xiang	1
+\	you xie gang	1
+🌨	you xue	1
+🏊‍	you yong	1
+🦑	you yu	1
+○	yq	1
+●	yq	1
+↗	ys	1
+↗	ysjt	1
+🐟	yu	1
+<。)#)))≦	yu	1
+⚪	yuan	1
+📯	yuan hao	1
+⌒	yuan hu	1
+o(一︿一+)o	yuan nian	1
+⭕	yuan quan	1
+●	yuan quan	1
+⚛	yuan zi	1
+⚛	yuan zi neng	1
+🍥	yu bing	1
+🈷	yue	1
+≈	yue deng yu	1
+🌙	yue liang	1
+🎼	yue pu	1
+🌕	yue yuan	1
+🛁	yu gang	1
+🌦	yu guo tian qing	1
+👨‍🚀	yu hang yuan	1
+🧘‍	yu jia	1
+🌷	yu jin xiang	1
+🏸	yu mao qiu	1
+☹	yu men	1
+(￣﹏￣；)	yu men	1
+🌽	yu mi	1
+🌮	yu mi bing	1
+(((φ(◎ロ◎;)φ)))	yun	1
+😵	yun	1
+🎽	yun dong bei xin	1
+🏟	yun dong chang	1
+🏟	yun dong guan	1
+🏅	yun dong jiang zhang	1
+👟	yun dong xie	1
+☁	yun duo	1
+🤰	yun fu	1
+🌦	yun kai ri chu	1
+🌂	yu san	1
+🌧	yu tian	1
+🌌	yu zhou	1
+∵	yw	1
+↘	yx	1
+@	yx	1
+\	yxg	1
+↘	yxjt	1
+ヾ(￣▽￣)Bye~Bye~	zai jian	1
+♻	zai li yong	1
+🤹‍	za ji	1
+👍	zan	1
+b(￣▽￣)d	zan	1
+⏸	zan ting	1
+🙋‍	zan tong	1
+X﹏X	zao gao	1
+🤹‍	za shua	1
+怎么	zen em	1
+…(⊙_⊙;)…	zen me hui	1
+ζ	ze ta	1
+±	zf	1
+±	zfh	1
+💣	zha dan	1
+(╯‵□′)╯炸弹！•••*～●	zha dan	1
+🔮	zhan bu	1
+⚔	zhan dou	1
+📒	zhang ben	1
+§	zhang jie hao	1
+🖐	zhang kai shou	1
+⛺	zhang peng	1
+🐾	zhang yin	1
+🐙	zhang yu	1
+(:◎)≡	zhang yu	1
+👊	zhao da	1
+👋	zhao shou	1
+🍤	zha xia	1
+😉	zha yan	1
+⛺	zha ying	1
+这么	zhe em	1
+😦	zhen de ma	1
+📳	zhen dong	1
+＋	zheng	1
+㊣	zheng	1
+🗯	zheng bian	1
+±	zheng fu	1
+±	zheng fu hao	1
+＋	zheng hao	1
+⚗	zheng liu qi	1
+✔	zheng que	1
+🧖‍	zheng sang na	1
+☦	zheng tong shi zi jia	1
+o(^▽^)o	zhen hao	1
+(○´･д･)ﾉ	zhen jing	1
+👍	zhen niu	1
+🕵️‍	zhen tan	1
+💉	zhen tong	1
+👒	zhe yang mao	1
+☞	zhi	1
+🖇	zhi jia	1
+∟	zhi jiao	1
+🖖	zhi jing	1
+智能ABC	zhi neng abc	1
+🎴	zhi pai	1
+🔝	zhi shang	1
+🚁	zhi sheng ji	1
+👨‍💼	zhi yuan	1
+🕷	zhi zhu	1
+🕸	zhi zhu wang	1
+🏁	zhong dian qi	1
+🎰	zhong jiang	1
+终极PK	zhong ji pk	1
+[]	zhong kuo hao	1
+🎑	zhong qiu	1
+🙍‍	zhou mei	1
+🐖	zhu	1
+^(*￣(oo)￣)^	zhu	1
+😫	zhua kuang	1
+🖼	zhuang shi hua	1
+🐽	zhu bi zi	1
+®	zhu ce	1
+㊗	zhu he	1
+🖥	zhu ji	1
+📿	zhu lian	1
+💉	zhu she qi	1
+㈱	zhu shi hui she	1
+🕎	zhu tai	1
+🍲	zhu tang	1
+🐷	zhu tou	1
+🕸	zhu wang	1
+🚸	zhu yi er tong	1
+📊	zhu zhuang tu	1
+🤳	zi pai	1
+*(੭*ˊᵕˋ)੭*ଘ	zi pai	1
+💜	zi xin	1
+🚲	zi xing che	1
+🚳	zi xing che jin xing	1
+🚴‍	zi xing che sai	1
+💁‍	zi xun yuan	1
+🗽	zi you nv shen	1
+🗽	zi you nv shen xiang	1
+∟	zj	1
+§	zjh	1
+←	zjt	1
+浙江电视台	zjtv	1
+（	zkh	1
+[]	zkh	1
+智能ABC	znabc	1
+( ﾟдﾟ)つBye	zou la	1
+┏ (゜ω゜)=☞	zou ni	1
+↖	zs	1
+↖	zsjt	1
+💍	zuan jie	1
+💎	zuan shi	1
+👄	zui chun	1
+<@_@>	zui le	1
+→_→	zui you	1
+←_←	zui zuo	1
+👈	zuo	1
+←	zuo	1
+🤛	zuo ce quan	1
+🤛	zuo ji	1
+⬅	zuo jian tou	1
+（	zuo kuo hao	1
+🤜	zuo quan	1
+↖	zuo shang	1
+↩	zuo wan you jian tou	1
+↙	zuo xia	1
+/	zuo xie gang	1
+💺	zuo yi	1
+↔	zuo you jian tou	1
+⚽	zu qiu	1
+🚫	zu zhi	1
+🤬	zu zhou	1
+↙	zx	1
+/	zxg	1
+↙	zxjt	1
