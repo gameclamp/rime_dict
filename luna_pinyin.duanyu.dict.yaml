@@ -1,0 +1,28 @@
+---
+name: luna_pinyin.duanyu
+version: "2019.05.09"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+😫	a a	1
+w(ﾟДﾟ)w	a a	1
+o((>ω< ))o	a a	1
+AA制	a a zhi	1
+中国农业银行	a b c	1
+🆎	a b xing xie	1
+🆎	a b xing xue	1
+交流电	a c	1
+公元	a d	1
+α	a er fa	1
+A股	a gu	1
+安徽电视台	a h t v	1
+安徽TV	a h t v	1
+😔	a i	1
+艾滋病	aids	1
+AIDS	aids	1
+iPhone	aifeng	1
+亚投行	a i i b	1
+亚洲基础设施投资银行	a i i b	1
+😆	ai ma	1
+😘	ai ni	1
